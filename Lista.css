@@ -1,0 +1,28 @@
+body{
+font-family: sans-serif;
+background: #faf9f9;
+background-size: cover;
+color: #2f3542;
+text-align: center;
+}
+table, th,td{
+margin-left: auto;
+margin-right: auto;
+border: 1px solid #2f3542;
+border-collapse: collapse;
+width: 1300px;
+font-size: 16px;
+}
+th{
+margin-left: auto;
+margin-right: auto;
+border: 1px solid #2f3542;
+border-collapse: collapse;
+width: 1300px;
+background: #ffac81;
+padding-top: 10px;
+padding-bottom:10px;
+font-size: 20px;
+color: white;
+opacity: 0.6;
+}
